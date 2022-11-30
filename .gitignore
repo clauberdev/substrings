@@ -1,0 +1,7 @@
+.bundle
+.cache
+Gemfile
+Gemfile.lock
+.replit
+replit.nix
+.upm
